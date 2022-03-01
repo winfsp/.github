@@ -1,8 +1,10 @@
+![banner](banner.png)
+
 ## Windows file system and storage software
 
 The WinFsp organization houses file system and storage solutions for use in Windows:
 
-- The core project is [WinFsp](https://github.com/winfsp/winfsp), which is a complete file system solution that offers a Windows developer the ability to programmatically create Windows "drives" (file system volumes) that contain files that are backed up by a storage of the developer's choosing.
+- The core project is [WinFsp](https://github.com/winfsp/winfsp), which is a complete file system solution that offers a Windows developer the ability to programmatically create Windows "drives" (file system volumes) that contain files that are backed by a storage of the developer's choosing.
 
 - The related [WinSpd](https://github.com/winfsp/winspd) project is similar to WinFsp, but instead of presenting itself as a file system to Windows it presents itself as a "disk" (block storage), which can be formatted using a standard file system (e.g. NTFS).
 
