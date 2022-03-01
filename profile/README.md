@@ -1,4 +1,4 @@
-## Windows file system software
+## Windows file system and storage software
 
 The WinFsp organization houses file system and storage solutions for use in Windows:
 
@@ -8,6 +8,6 @@ The WinFsp organization houses file system and storage solutions for use in Wind
 
 WinFsp and WinSpd are open source software, but also offer a commercial licensing option. Please contact Bill Zissimopoulos \<billziss at navimatics.com> for details.
 
-## Cross-platform file system software
+## Cross-platform file system and storage software
 
 A number of cross-platforms file system solutions are also provided. The core cross-platform project is [cgofuse](https://github.com/winfsp/cgofuse) which is MIT licensed and allows a file system (FUSE) developer to develop file systems in Go that can run on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD.
