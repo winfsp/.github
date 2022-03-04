@@ -8,7 +8,7 @@ The WinFsp organization houses file system and storage solutions for use in Wind
 
 - The related [WinSpd](https://github.com/winfsp/winspd) project is similar to WinFsp, but instead of presenting itself as a file system to Windows it presents itself as a "disk" (block storage), which can be formatted using a standard file system (e.g. NTFS).
 
-WinFsp and WinSpd are open source software, but also offer a commercial licensing option. Please contact Bill Zissimopoulos \<billziss at navimatics.com> for details.
+WinFsp and WinSpd are open source software, but also offer a commercial licensing option. Please see this [page](https://winfsp.dev/com/) for more details or contact Bill Zissimopoulos \<billziss at navimatics.com>.
 
 ## Cross-platform file system and storage software
 
