@@ -1,4 +1,4 @@
-![banner](profile/banner.png)
+![banner](banner.png)
 
 ## Windows file system and storage software
 
